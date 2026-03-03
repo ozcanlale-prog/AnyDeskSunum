@@ -1,4 +1,5 @@
 AnyDeskSunum
+
 📌 Proje Hakkında
 
 Bu proje, AnyDesk adlı uzak masaüstü bağlantı programının temel kullanımını ve çalışma mantığını anlatan bir PowerPoint sunumunu içermektedir.
